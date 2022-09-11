@@ -123,6 +123,6 @@ Async tests were completed using Awesome's `awful.spawn.easy_async()`. Note that
  - Promises are still just tables
     - To check if an instance is a Promise, check its metatable __index: 
         ```lua
-            local is_promise = getmetatable(maybe_promise).__index == Promise
+        local is_promise = getmetatable(maybe_promise).__index == Promise
         ```
     - Private members are only obfuscated by the `_private` subtable. I'm leaving it up to you to not abuse it.

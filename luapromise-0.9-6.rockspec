@@ -4,7 +4,7 @@ source = {
    url = "..." -- We don't have one yet
 }
 description = {
-   summary = "JavaScript-like Promises for Lua.",
+   summary = "JavaScript-like Promises for Lua",
    detailed = [[
     Promises aim to improve your async workflows, 
     cutting out the callback soup often associated with async code
