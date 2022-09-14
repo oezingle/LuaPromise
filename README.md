@@ -4,6 +4,13 @@ This project comes from [this Gist](https://gist.github.com/oezingle/f3c37eb6fc1
 
 LuaPromise aims to provide functionality similar to JavaScript's promises in Lua, allowing you to simplify async data flows and scrap the callback soup. You have to bring your own event loop, though synchronous code also works perfectly well with Promises.
 
+## Existing (Probably Better) Solutions 
+
+The idea of Promises in Lua isn't new. If one of these libraries would work better for you, use it:
+ - [Billiam/promise.lua](https://github.com/Billiam/promise.lua)
+ - [zserge/lua-promises](https://github.com/zserge/lua-promises)
+ - [evaera/roblox-lua-promise](https://github.com/evaera/roblox-lua-promise)
+
 
 ## Installing
  - Clone this repository
