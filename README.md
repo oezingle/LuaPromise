@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is archived. I've re-written Promises for [YAPP](https://github.com/lua-plus/yapp), exported as yapp.class.Promise
+
 # LuaPromise
 
 This project comes from [this Gist](https://gist.github.com/oezingle/f3c37eb6fc19326b836d86e21166a9d8), which is also my code
